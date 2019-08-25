@@ -1,8 +1,5 @@
 # Alien_js
 
-HTML page displays filtered data from a JavaScript file.
+HTML page displays filtered UFO sightings data from a JavaScript file.
 
-* HTML
-* CSS
-* bootstrap
-* Javascript
+* JavaScript, HTML, CSS, bootstrap
